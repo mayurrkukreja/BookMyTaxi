@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "849743853135",
+    "project_id": "flutter-uber-clone-b2690",
+    "storage_bucket": "flutter-uber-clone-b2690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849743853135:android:a88875249f1ce74d549c3a",
+        "android_client_info": {
+          "package_name": "com.example.rider_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849743853135-rmjhs3vntv30rkf0d11lk93qugaggfl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJn39hbssNOxj6NAYZbuHqtjxID5F1mu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849743853135-rmjhs3vntv30rkf0d11lk93qugaggfl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849743853135:android:39d7007023ddd7a7549c3a",
+        "android_client_info": {
+          "package_name": "com.mayur.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849743853135-rmjhs3vntv30rkf0d11lk93qugaggfl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJn39hbssNOxj6NAYZbuHqtjxID5F1mu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849743853135-rmjhs3vntv30rkf0d11lk93qugaggfl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
